@@ -20,7 +20,7 @@ Este es un proyecto derivado de un Challenge de Alura store, esta realizado en p
 - Plotly.express
 
 **Contiene gráficos adiciones para futura toma de decisiones y un informe final**
-**NOTA: PARA PODER EJECUTAR EL CÓDIGO DEBE SER DESCRGADO O COPIAR EL LINK PARA SER ABIERTO EN GOOGLE COLAB O IMPORTALO A ALGUN NOTEBOOK DE SU PREFERENCIA**
+**NOTA: PARA PODER EJECUTAR EL CÓDIGO DEBE SER DESCRGADO O COPIAR EL LINK PARA SER ABIERTO EN GOOGLE COLAB O IMPORTARLO A ALGUN NOTEBOOK DE SU PREFERENCIA**
 
 
 *Portafolio sobre proyectos de Jazmin Mendez*
